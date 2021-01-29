@@ -10,7 +10,7 @@ class Git2008ApplicationTests {
     void contextLoads() {
         int b=20;
         int a = 10;
-
+        String string="魏琴添加的哈哈哈哈哈哈哈哈哈哈";
     }
 
 }
