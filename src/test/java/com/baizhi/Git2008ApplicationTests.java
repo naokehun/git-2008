@@ -11,6 +11,7 @@ class Git2008ApplicationTests {
         int b=20;
         int a = 10;
         String string="魏琴添加的哈哈哈哈哈哈哈哈哈哈";
+        String s2="hhhh";
     }
 
 }
